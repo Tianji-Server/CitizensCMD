@@ -15,7 +15,7 @@
         <citizens.version>2.0.29-SNAPSHOT</citizens.version>
         <papi.version>2.11.1</papi.version>
         <vault.version>1.7.1</vault.version>
-        <adventure-bukkit.version>4.1.0</adventure-bukkit.version>
+        <adventure-bukkit.version>4.1.1</adventure-bukkit.version>
         <adventure.version>4.10.1</adventure.version>
         <configme.version>1.3.0</configme.version>
         <triumph-cmd.version>2.0.0-SNAPSHOT</triumph-cmd.version>
